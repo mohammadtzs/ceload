@@ -1,6 +1,6 @@
 # ceload
 A tool that allows you to manually load up CheatEngine's signed driver and get a handle to it for various kernel hacking operations.  
-The code is well documented using comments and a short outline of what's happening is described below and as such this project is a learning resource.  
+The code is well documented using comments and a short outline of what's happening is described below and as such this project is a learning resource. 
 The project has been tested with CheatEngine 7.3.
 
 ![](/images/preview.png)
